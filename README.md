@@ -1,2 +1,2 @@
-Create new demo
+Create new demo and try it.
 
