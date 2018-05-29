@@ -1,2 +1,1 @@
-Create new demo and try it.
-
+Create new demo and try and test it.
